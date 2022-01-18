@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.js": "javascript",
-        "wait.h": "c",
-        "unistd.h": "c",
-        "stdio.h": "c"
-    }
-}
